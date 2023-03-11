@@ -1,4 +1,5 @@
-﻿var divMenu = document.createElement('div');
+﻿//!!!
+var divMenu = document.createElement('div');
 document.body.appendChild(divMenu);
 divMenu.style.display = 'flex';
 divMenu.style.flexDirection = 'column';
