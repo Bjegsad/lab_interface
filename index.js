@@ -3,7 +3,7 @@ document.body.appendChild(divMenu);
 divMenu.style.display = 'flex';
 divMenu.style.flexDirection = 'column';
 divMenu.style.justifyContent = 'center';
-
+//gdfgfd
 var div1 = document.createElement('div');
 div1.textContent = "Количество карточек по вертикали/горизонтали:";
 divMenu.append(div1);
